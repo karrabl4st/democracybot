@@ -1,0 +1,22 @@
+{
+  "name": "democracy",
+  "version": "1.0.0",
+  "description": "bot to control a server democratically",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karrabl4st/democracybot.git"
+  },
+  "author": "karra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karrabl4st/democracybot/issues"
+  },
+  "homepage": "https://github.com/karrabl4st/democracybot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
